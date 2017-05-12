@@ -9,6 +9,11 @@ Using pieces of Laravel, Symfony, Zend and other php libraries that have become 
     - PSR-7 Message Standards
     - PSR-15 (proposed) Standard
     - Event-Sourcing & CQRS
+    - Schema.org semantic data api abstractions & generators 
+Based on:
+    - ADR pattern (more adaptable to web apps than MVC)
+    - Component abstractions from Illuminate package
+    
 
 This project is in development. Any and all help would be appreciated.
 
