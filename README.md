@@ -13,7 +13,7 @@ Using pieces of Laravel, Symfony, Zend and other php libraries that have become 
 Based on:
     - ADR pattern (more adaptable to web apps than MVC)
     - Component abstractions from Illuminate package
-    
+    - Tried & tested design patterns 
 
 This project is in development. Any and all help would be appreciated.
 
